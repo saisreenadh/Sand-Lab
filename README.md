@@ -1,5 +1,5 @@
 # Sand-Movement
-An particle simulation system built in Python, showcasing behaviors of sand-like particles within a dynamic grid. Inspired by cellular automata and particle physics, this project simulates how granular materials interact with their environment, offering a visually captivating experience through a custom-rendered canvas. The system is built to be both efficient and highly customizable, allowing users to explore complex particle dynamics in real time.
+A particle simulation system built in Python, showcasing behaviors of sand-like particles within a dynamic grid. Inspired by cellular automata and particle physics, this project simulates how granular materials interact with their environment, offering a visually captivating experience through a custom-rendered canvas. The system is built to be both efficient and highly customizable, allowing users to explore complex particle dynamics in real-time.
 
 ## Key Features:
 Particle Physics Simulation: Realistic simulation of granular particles, each interacting with gravity and neighboring particles within a grid-based environment.
