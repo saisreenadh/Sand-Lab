@@ -1,4 +1,4 @@
-# Sand-Movement
+# Sand-Lab
 A particle simulation system built in Python, showcasing behaviors of sand-like particles within a dynamic grid. Inspired by cellular automata and particle physics, this project simulates how granular materials interact with their environment, offering a visually captivating experience through a custom-rendered canvas. The system is built to be both efficient and highly customizable, allowing users to explore complex particle dynamics in real-time.
 
 ## Key Features:
@@ -8,7 +8,7 @@ Efficient Grid Management: Optimized algorithms ensure that the grid structure u
 Customizable Parameters: Adjust simulation parameters such as gravity, particle density, and interaction rules to experiment with different environments and behaviors.
 
 ## How It Works:
-At its core, the Sand Project revolves around three primary components:
+At its core, the Sand-Lab revolves around three primary components:
 
 1. sand.py
 This is the heart of the simulation. It controls particle behavior based on defined rules for movement, interaction, and environmental influence (e.g., gravity). The particles in the simulation respond dynamically to both user input and environmental changes, producing visually stunning patterns and behaviors.
